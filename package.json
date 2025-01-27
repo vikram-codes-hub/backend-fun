@@ -1,0 +1,27 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "this is  my app",
+  "main": "1.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram-codes-hub/buri-buri.git"
+  },
+  "author": "vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikram-codes-hub/buri-buri/issues"
+  },
+  "homepage": "https://github.com/vikram-codes-hub/buri-buri#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "i": "^0.3.7",
+    "npm": "^11.0.0",
+    "slug": "^10.0.0"
+  },
+  "keywords": []
+}
